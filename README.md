@@ -1,5 +1,6 @@
 # CODSOFT
 Internship Projects
+
 📄 Project 1 - "Landing Page":
 Get ready to unleash your creativity as you design and develop a captivating landing page. Your task will be to create an aesthetically pleasing and user-friendly web page that leaves a lasting impression on visitors. This project will give you a chance to experiment with HTML, CSS, and responsive design principles, and showcase your flair for web design.
 
